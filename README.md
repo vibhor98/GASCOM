@@ -1,6 +1,6 @@
 # GASCOM: Graph-based Attentive Semantic Context Modeling for Online Conversation Understanding
 
-**Vibhor Agarwal**, Yu Chen, Nishanth Sastry, "GASCOM: Graph-based Attentive Semantic Context Modeling for Online Conversation Understanding", Online Social Networks aqnd Media (OSNEM) journal, 2024.
+**Vibhor Agarwal**, Yu Chen, Nishanth Sastry, "GASCOM: Graph-based Attentive Semantic Context Modeling for Online Conversation Understanding", Online Social Networks and Media (OSNEM) journal, 2024.
 
 ## Abstract
 
@@ -8,8 +8,7 @@ Online conversation understanding is an important yet challenging NLP problem wh
 
 The paper PDF is available [here](https://arxiv.org/abs/2310.14028).
 
-
-## Citation
+## Citation
 
 If you find this paper useful in your research, please consider citing:
 
